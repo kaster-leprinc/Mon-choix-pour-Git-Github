@@ -1,6 +1,6 @@
 # PARTIE I – GIT
 
-**Les commits : machines à voyager dans le temps
+**Les commits : machines à voyager dans le temps**
 
 Avant de parler de Github nous devons d’abord parler de Git, le logiciel originel sur lequel se greffe cette interface.
 
@@ -13,7 +13,7 @@ On peut faire un parallèle avec un Google Docs qui permet de revenir sur l’hi
 
 A la différence, sur Git on « commit » tous les nouveaux fichiers que l’on ajoute ou supprime, ainsi que les lignes modifiées dans le code, elles sont « commitées ». Le développeur choisit quand il souhaite commiter (donc “enregistrer” sous forme de commit) un ensemble cohérent de modifications.
 
-**Les branches : univers parallèles
+**Les branches : univers parallèles**
 
 Le but des branches est de pouvoir développer une nouvelle fonctionnalité sans qu’elle impacte le code stable (qui réside sur la branche « master »). Une branche est un univers parallèle qui démarre à partir d’un commit du master et sur lequel on ajoute des commits le temps de construire quelque chose de stable.
 
